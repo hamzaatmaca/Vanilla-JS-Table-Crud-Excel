@@ -1,0 +1,51 @@
+[
+  {
+    "firstName": "Ökkeş",
+    "lastName": "Bulut",
+    "age": 32,
+    "gender": "Male",
+    "position": "Developer"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Alkan",
+    "age": 37,
+    "gender": "Female",
+    "position": "Human Resourcer"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Güngör",
+    "age": 40,
+    "gender": "Male",
+    "position": "Accounter"
+  },
+  {
+    "firstName": "Şule",
+    "lastName": "Kalay",
+    "age": 25,
+    "gender": "Female",
+    "position": "Sales Person"
+  },
+  {
+    "firstName": "Demet",
+    "lastName": "Ateş",
+    "age": 40,
+    "gender": "Female",
+    "position": "Sales Director"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Asker",
+    "age": 49,
+    "gender": "Male",
+    "position": "Service Person"
+  },
+  {
+    "firstName": "Metin",
+    "lastName": "Kaya",
+    "age": 30,
+    "gender": "Male",
+    "position": "IT Director"
+  }
+]

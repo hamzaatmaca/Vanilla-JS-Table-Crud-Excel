@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.fa-solid:hover {
+  cursor: pointer;
+}
+
+.modalContainer {
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  z-index: 99;
+  margin-left: 35%;
+  position: absolute;
+  box-shadow: 0 0 3px grey;
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.genderSelect {
+  width: 100%;
+  height: 2.2rem;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid rgb(218, 213, 213) !important;
+  padding-left: 0.4rem;
+}
+
+.saveButton {
+  width: 47% !important;
+  background-color: rgb(85, 85, 179);
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: white;
+  margin: 5px;
+}
+.cancelButton {
+  width: 47% !important;
+  background-color: rgb(199, 84, 84);
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: white;
+  margin: 5px;
+}
+#addRow:hover {
+  cursor: pointer;
+}
+
+.deleteIcon {
+  color: rgb(211, 87, 87);
+  transition: 0.3s;
+}
+
+.updateIcon {
+  color: rgb(136, 158, 56);
+  transition: 0.3s;
+}
+
+.deleteIcon:hover {
+  color: rgb(226, 4, 4);
+}
+
+.updateIcon:hover {
+  color: rgb(23, 214, 17);
+}
+
+.selectedRow:hover {
+  cursor: pointer;
+}
